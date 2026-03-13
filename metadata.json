@@ -1,0 +1,5 @@
+{
+  "name": "PharmaRoute",
+  "description": "Internal tool for pharmaceutical sales reps to track and visit pharmacies.",
+  "requestFramePermissions": []
+}
